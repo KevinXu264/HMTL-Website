@@ -1,0 +1,27 @@
+
+
+h1 {
+    color: black;
+    font-size: 100px;
+    display: inline;
+    background-color: white;
+}
+
+h3,p {
+    display: inline;
+    background-color: white;
+}
+
+.style1
+{
+    font-size: 50px;
+    color : green;
+}
+
+.font{
+    font-family: 'Acme', sans-serif;
+}
+
+.font2{
+    font-family: 'Volkhov', serif;
+}
